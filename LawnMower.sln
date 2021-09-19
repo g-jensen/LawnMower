@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LawnMower", "LawnMower\LawnMower.vcxproj", "{C2226045-52EC-4354-980A-AE0EA3B7812E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LawnMapMaker", "LawnMapMaker\LawnMapMaker.vcxproj", "{536A73A8-F52C-43A2-ACEA-15E78DE845F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Debug|x64.ActiveCfg = Debug|x64
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Debug|x64.Build.0 = Debug|x64
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Debug|x86.Build.0 = Debug|Win32
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Release|x64.ActiveCfg = Release|x64
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Release|x64.Build.0 = Release|x64
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Release|x86.ActiveCfg = Release|Win32
+		{C2226045-52EC-4354-980A-AE0EA3B7812E}.Release|x86.Build.0 = Release|Win32
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Debug|x64.ActiveCfg = Debug|x64
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Debug|x64.Build.0 = Debug|x64
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Debug|x86.Build.0 = Debug|Win32
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Release|x64.ActiveCfg = Release|x64
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Release|x64.Build.0 = Release|x64
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Release|x86.ActiveCfg = Release|Win32
+		{536A73A8-F52C-43A2-ACEA-15E78DE845F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A146F7EA-6BB3-487E-9160-A5949EE96BE6}
+	EndGlobalSection
+EndGlobal
